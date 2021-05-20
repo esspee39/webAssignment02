@@ -1,1 +1,1 @@
-This is a test fiel for uploading to GitHub.
+This is a test file for uploading to GitHub.
